@@ -6,5 +6,5 @@ The SparseAdamW optimizer behaves like AdamW optimizer, but updates only the sta
 ## Install
 Install by running:
 ```bash
-pip install pytorch-sparse-adamw
+pip install torch-sparse-adamw
 ```
