@@ -1,5 +1,5 @@
 from setuptools import setup, find_packages
-from deep_rl import __version__
+from torch_sparse_adamw import __version__
 
 setup(
     name='torch_sparse_adamw',
